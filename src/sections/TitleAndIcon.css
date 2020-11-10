@@ -1,0 +1,19 @@
+.icons-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+.icons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: -34px;
+  transform: translateY(-45px);
+  }
+
+.sub-icon{
+  max-width: 30px;
+}

@@ -1,0 +1,28 @@
+.fullpage{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .first{
+    background-color: darkblue;
+  }
+
+  .second1{
+    background-color: rgb(87, 189, 39);
+  color: rgb(231, 15, 51);
+  }
+  
+  .second{
+    background-color: darkgoldenrod;
+  }
+  
+  .third{
+    background-color: deeppink;
+  }
+
+ 

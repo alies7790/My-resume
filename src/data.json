@@ -1,0 +1,80 @@
+{
+    "title":"Hello I'm ali!",
+    "subtitle":"Novice Web Writer | Love Python",
+    "links":{
+        "github":"https://github.com/alies7790",
+        "instagram":"https://www.instagram.com/ali_es7790",
+        "linkedin":"https://www.linkedin.com/in/ali-ea-05b085168/"
+
+    },
+    "section":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type": "p",
+                    "content":"I love to learn."
+                },{
+                    "type": "p",
+                    "content":"I'm learning react js."
+                },{
+                    "type": "p",
+                    "content":"When I start learning, it is difficult for me at first, after understanding and learning, I say what was easy. It is really funny for me."
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/react.png",
+                        "title":"React"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/sql.png",
+                        "title":"SQL"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/java.png",
+                        "title":"JAVA"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/js.png",
+                        "title":"JavaScript"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/css.png",
+                        "title":"CSS"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/html.png",
+                        "title":"HTML"
+                    }
+                },{
+                    "type": "Card",
+                    "content":{
+                        "image":"logo/python.png",
+                        "title":"Python"
+                    }
+                }
+
+            ]
+        }
+    ],
+    "icons":{
+        "down": "icon/down.png"
+    }
+
+}

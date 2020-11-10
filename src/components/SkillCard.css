@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90px;
+    height: 130px;
+    border-style: solid;
+    margin-left: 5px;
+  }
+
+  .card:hover{
+    box-shadow: 5px 10px darkcyan;
+  }

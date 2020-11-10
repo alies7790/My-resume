@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -55px;
+    
+}
+
+
+.right{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 5px;
+    padding-top: 10px;
+    margin-left: 5px;
+    
+
+}
+
+.theme{
+
+
+    margin-top:10px;
+    margin-left: 20px;
+
+}
+.theme:hover{
+color: darkred;
+}
+.rightDiv{
+    margin-right: 20px;
+}
+
+.rightDiv:hover{
+    color: darkred;
+}
+
+.inp{
+    background-color:  darkblue;
+}
