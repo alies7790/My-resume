@@ -8,14 +8,14 @@ class LinkToSection extends Component{
         return(
             <Link
               activeClass="active"
-              to="AboutSection"
+              to={add}
               spy={true}
               smooth={true}
               offset={0}
               duration={500}
               onSetActive={this.handleSetActive}
             >
-              <label className="p">about</label>
+              <label className="p">{add}</label>
             </Link>
         )
     }
